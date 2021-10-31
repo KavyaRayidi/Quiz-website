@@ -1,7 +1,11 @@
 body {
 background-color: #eeeeee;
-}
+display:flex;
+justify-content: center;
+align-content: center;
+align-items: center;
 
+}
 .grid {
 width: 600px;
 height: 500px;
@@ -9,6 +13,7 @@ margin: 0 auto;
 background-color: #ff6349;
 padding: 20px 40px 40px 50px;
 border: 2px solid #cbcbcb;
+;
 }
 
 .grid h1 {
